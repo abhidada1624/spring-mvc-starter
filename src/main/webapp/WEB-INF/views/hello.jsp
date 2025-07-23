@@ -1,6 +1,6 @@
 <html>
 	<body>
 	<h2>Welcome to Spring MVC! I'm the new output</h2>
-	<h3>v2.0</h3>	
+	<h3>v3.0</h3>	
 	</body>
 </html>
